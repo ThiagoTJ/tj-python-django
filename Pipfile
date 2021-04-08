@@ -10,6 +10,8 @@ gunicorn = "*"
 [dev-packages]
 flake8 = "*"
 pytest-django = "*"
+pytest-cov = "*"
+codecov = "*"
 
 [requires]
 python_version = "3.8"
