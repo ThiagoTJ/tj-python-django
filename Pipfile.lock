@@ -40,11 +40,8 @@
             "version": "==3.2.4"
         },
         "gunicorn": {
-            "hashes": [
-                "sha256:e0a968b5ba15f8a328fdfd7ab1fcb5af4470c28aaf7e55df02a99bc13138e6e8"
-            ],
-            "index": "pypi",
-            "version": "==20.1.0"
+            "hashes": [],
+            "version": "==21.1.0"
         },
         "psycopg2-binary": {
             "hashes": [
