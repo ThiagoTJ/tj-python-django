@@ -219,12 +219,8 @@
             "version": "==5.5"
         },
         "flake8": {
-            "hashes": [
-                "sha256:12d05ab02614b6aee8df7c36b97d1a3b2372761222b19b58621355e82acddcff",
-                "sha256:78873e372b12b093da7b5e5ed302e8ad9e988b38b063b61ad937f26ca58fc5f0"
-            ],
-            "index": "pypi",
-            "version": "==3.9.0"
+            "hashes": [],
+            "version": "==7.1.0"
         },
         "idna": {
             "hashes": [
